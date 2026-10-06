@@ -1,6 +1,6 @@
 {
-  "version": "v2.4",
-  "versionCode": 4,
-  "zipUrl": "https://github.com/MudArAa/SmartGovControl/releases/download/v2.4/my.module.universal.zip",
+  "version": "v2.5",
+  "versionCode": 5,
+  "zipUrl": "https://github.com/MudArAa/SmartGovControl/releases/download/v2.5/my.module.universal.zip",
   "changelog": "https://raw.githubusercontent.com/MudArAa/SmartGovControl/main/changelog.md"
 }
